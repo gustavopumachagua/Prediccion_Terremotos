@@ -82,6 +82,14 @@ Aquí tienes una descripción de los diferentes tipos de escalas utilizados para
 
 - **mint:** Magnitud Instrumental (Instrumental Magnitude). Es una medida de la amplitud del movimiento del suelo registrada por instrumentos sísmicos.
 
+---
+
+## **Bar Chart Race**
+
+- **Magnitudes Acumuladas por País por Año**
+
+![img](./video/bar_chart_race.gif)
+
 [🔼](#temario)
 
 ---
